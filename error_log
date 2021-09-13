@@ -1,0 +1,441 @@
+[20-Aug-2021 19:27:19 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[20-Aug-2021 19:27:19 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[20-Aug-2021 19:27:21 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[20-Aug-2021 19:27:21 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[20-Aug-2021 19:27:21 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[20-Aug-2021 19:27:21 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[20-Aug-2021 19:27:21 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[20-Aug-2021 19:27:21 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[20-Aug-2021 19:27:22 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[20-Aug-2021 19:27:22 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[20-Aug-2021 19:27:30 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[20-Aug-2021 19:27:30 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[20-Aug-2021 19:27:31 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[20-Aug-2021 19:27:31 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[20-Aug-2021 19:27:31 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[20-Aug-2021 19:27:31 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:27:49 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:27:49 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:27:50 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:27:50 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:27:51 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:27:51 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:27:51 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:27:51 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:27:58 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:27:58 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:44:46 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:44:46 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:45:45 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:45:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:50:58 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:50:58 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:51:01 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:51:01 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:51:02 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:51:02 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:51:03 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:51:03 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[30-Aug-2021 16:55:03 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[30-Aug-2021 16:55:03 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:08:33 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:08:33 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:08:33 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:08:33 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:08:33 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:08:33 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:08:33 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:08:33 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:08:33 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:08:33 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:08:34 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:08:34 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:08:34 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:08:34 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:08:34 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:08:34 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:08:34 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:08:34 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:09:20 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:09:20 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:09:20 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:09:20 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[01-Sep-2021 00:09:21 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[01-Sep-2021 00:09:21 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:01:21 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:01:21 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:01:22 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:01:22 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:01:22 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:01:22 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:01:23 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:01:23 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:01:23 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:01:23 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:03:09 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:03:09 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:03:19 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:03:19 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:03:20 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:03:20 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:03:20 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:03:20 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:03:20 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:03:20 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:04:15 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:04:15 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:04:15 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:04:15 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:04:15 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:04:15 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:04:29 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:04:29 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:06:10 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:06:10 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:07:35 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:07:35 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:07:36 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:07:36 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:07:37 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:07:37 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:07:37 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:07:37 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:07:37 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:07:37 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:08:33 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:08:33 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:09:38 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:09:38 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:09:39 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:09:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:09:39 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:09:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:09:39 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:09:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:09:39 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:09:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:12:27 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:12:27 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:23:56 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:23:56 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:23:57 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:23:57 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:23:58 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:23:58 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
+[02-Sep-2021 11:23:59 Asia/Kolkata] PHP Notice:  Undefined index: type in /home/thegggrl/public_html/process.php on line 21
+[02-Sep-2021 11:23:59 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'type' cannot be null in /home/thegggrl/public_html/process.php:37
+Stack trace:
+#0 /home/thegggrl/public_html/process.php(37): PDOStatement->execute(Array)
+#1 /home/thegggrl/public_html/process.php(10): enquiry(Object(PDO))
+#2 {main}
+  thrown in /home/thegggrl/public_html/process.php on line 37
