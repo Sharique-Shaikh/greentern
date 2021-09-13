@@ -874,9 +874,14 @@ overflow: hidden;
 z-index: 7;
 position: relative;
 }
+.video-section-tab .tab-video{
+  background: #FCFBFD;
+}
 .video-section-tab{
   width: 100%;
   height:400px;
+  background: url('../images/loader-tad.gif') no-repeat center;
+
 }
 
 
