@@ -101,12 +101,16 @@
                      <h6>FOR BUSINESS</h6>
                      <h2>Do you want to solve your business problems <br class="d-md-block d-none"/>with a guaranteed solution ?</h2>
                   </div>
+                  <p>	We navigate
+  the SAAS landscape and tthe myriad solutions on your behalf to help you get
+  to <br class="d-md-block d-none"/>the products and technology that are right for your business. </p>
                </div>
             </div>
             <div class="">
                
                
-               <lottie-interactive path="assets/json/Business-Section.json"  style="width: 100%;  " background="#f110" interaction="play-on-show" play-once  ></lottie-interactive>
+               <lottie-player src="assets/json/Business-Section.json"   style="width: 100%;  " background="#f110" speed="1"  autoplay></lottie-player>
+               
             </div>
          </section>
          <section class="bg-light">
@@ -241,20 +245,20 @@
             <div class="container">
                <div class="equal-padding-T equal-padding-B ">
                   <div class="button-toggle d-flex justify-content-center">
-                     <div class="btn-box click-bg mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center " data-src="assets/json/Execution-Engine.json">
+                     <div class="btn-box click-bg mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center col-lg-3 col-md-4 col-5" data-src="assets/json/Execution-Engine.json">
                         <div class="img-icon bg-light-green justify-content-center "><img src="assets/images/Icons/job.svg" alt=""></div>
                         <span>Execution Engine</span>
                      </div>
-                     <div class="btn-box mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center" data-src="assets/json/Strategy.json">
+                     <div class="btn-box mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center col-lg-3 col-md-4 col-5" data-src="assets/json/Strategy.json">
                         <div class="img-icon  bg-light-green justify-content-center "><img src="assets/images/Icons/strategy.svg" alt=""></div>
                         <span>Strategy</span>
                      </div>
                   </div>
                </div>
-               <div class="">
+               <div class="video-section-tab">
                   
                   
-                  <lottie-interactive path="assets/json/Execution-Engine.json" id="video"  style="width: 100%; " background="#f110" interaction="play-on-show" play-once  ></lottie-interactive>
+                  <lottie-interactive path="assets/json/Execution-Engine.json" id="video" class="tab-video"  style="width: 100%; " background="#FCFBFD" interaction="play-on-show" play-once  ></lottie-interactive>
                   
                </div>
             </div>
@@ -265,7 +269,7 @@
                   <div class="strip bg-black">
                      <h6>TOO GOOD TO BELIEVE ?</h6>
                      <div class="stripContent d-md-flex  justify-content-between align-items-center">
-                        <h3>Write to us to simply enter our database or explore a sleuth<br class="d-md-block d-none"/> of gtm/sales offering we have to offer.</h3>
+                        <h3>Write to us to simply enter our database or explore a sleuth<br class="d-md-block d-none"/> of GTM/sales offering we have to offer.</h3>
                         <div class="mt-md-0 mt-4"><a class="btn btn-border-white form-pop" data-bs-toggle="modal" data-bs-target="#exampleModal">Get In Touch</a></div>
                      </div>
                   </div>
@@ -431,12 +435,12 @@
                   <div class="footer-row row">
                      <div class="col-md-6">
                         <div class="footer-about text-md-start text-center">
-                           <div class="footer-logo w-25 mb-3 mx-md-0 mx-auto"><img class="w-100" src="assets/images/Greentern_Whitelogo.svg" alt=""></div>
+                           <div class="footer-logo w-25 mb-3 mx-md-0 mx-auto"><img class="w-100" src="assets/images/white-logo.svg" alt=""></div>
                            <p class=" text-break  " >Greentern is a SAAS technology research and consulting company.</p>
                         </div>
                      </div>
                      <div class="col-md-6 mt-4 mt-md-0">
-                        <div class="footer-social justify-content-md-end justify-content-center"><a href=""><i class="fab fa-facebook-f"></i></a><a href=""><i class="fab fa-instagram"></i></a><a href=""><i class="fab fa-twitter"></i></a><a href=""><i class="fab fa-youtube"></i></a></div>
+                        <div class="footer-social justify-content-md-end justify-content-center"><a href="" title="coming soon..."><i class="fab fa-facebook-f"></i></a><a href="" title="coming soon..."><i class="fab fa-instagram"></i></a><a href="" title="coming soon..."><i class="fab fa-twitter"></i></a><a href="" title="coming soon..."><i class="fab fa-youtube"></i></a></div>
                      </div>
                   </div>
                   <div class="footer-end row">
@@ -721,5 +725,6 @@ $(window).scroll(function() {
 
 
       </script>
+      
    </body>
 </html>
