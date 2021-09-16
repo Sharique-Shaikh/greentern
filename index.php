@@ -1,4 +1,4 @@
-<?php include('connection.php'); ?>
+<!-- </?php include('connection.php'); ?> -->
 <!DOCTYPE html>
 <html lang="en">
    <head>
@@ -76,7 +76,7 @@
                </div>
             </div>
          </section>
-         <section class="bg-light-gray" id="what-we-do">
+         <section class="bg-light-gray page-section" id="what-we-do">
             <div class="container">
                <div class="equal-padding-T equal-padding-B ">
                   <div class="sectionHeading text-center mb-5">
@@ -88,32 +88,36 @@
                      <lottie-interactive path="assets/json/Top.json"  style="width: 100%; " background="#f110" interaction="play-on-show" play-once  ></lottie-interactive>
                   </div>
                   <div class="text-center mt-5">
-                     <p>We have 30+ years combined industry experience. We evaluate 100s of products<br /> every month. We also gather indispensable insights on user-experience, total cost of ownership<br /> and support infrastructure from actual business buyers. 
+                     <p>We have 30+ years of combined industry experience. We evaluate 100s of products every month.<br/> We also gather indispensable insights on user-experience, total cost of ownership <br/> and support infrastructure from actual business buyers. 
                      </p>
                   </div>
                </div>
             </div>
          </section>
-         <section class="bg-light" id="business">
+         <section class="bg-light page-section" id="business">
             <div class="container ">
                <div class="equal-padding-T ">
                   <div class="sectionHeading text-left mb-5">
                      <h6>FOR BUSINESS</h6>
-                     <h2>Do you want to solve your business problems <br class="d-md-block d-none"/>with a guaranteed solution ?</h2>
+                     <h2>Do you want to solve your business problems <br class="d-md-block d-none"/>with a guaranteed solution?</h2>
                   </div>
+                  <p>	We navigate
+  the SAAS landscape and tthe myriad solutions on your behalf to help you get
+  to <br class="d-md-block d-none"/>the products and technology that are right for your business. </p>
                </div>
             </div>
             <div class="">
                
                
-               <lottie-interactive path="assets/json/Business-Section.json"  style="width: 100%;  " background="#f110" interaction="play-on-show" play-once  ></lottie-interactive>
+               <lottie-player src="assets/json/Business-Section.json"   style="width: 100%;  " background="#f110" speed="1"  autoplay></lottie-player>
+               
             </div>
          </section>
          <section class="bg-light">
             <div class="container ">
                <div class="equal-padding-T equal-padding-B">
                   <div class="sectionHeading text-center mb-5">
-                     <h2>Get started in 3 simple steps</h2>
+                     <h2>Get started in 3 simple steps.</h2>
                   </div>
                   <div class="green-steps " >
                      <div class="row gy-5 gy-md-0">
@@ -121,7 +125,7 @@
                            <div class="stepsContent " >
                               <h5>STEP 1</h5>
                               <div class="steps-icons" data-aos="fade-right" data-aos-easing="ease-in" data-aos-delay="300" ><img src="assets/images/Icons/Group-1.svg" alt=""></div>
-                              <h3>Fill a simple form <br /><a href="#contact">Start Now</a></h3>
+                              <h3>Fill a simple form <br /><a href="#contact">Start now</a></h3>
                            </div>
                         </div>
                         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -147,16 +151,16 @@
             <div class="container ">
                <div class="equal-padding-T equal-padding-B">
                   <div class="strip bg-black">
-                     <h6>TOO GOOD TO BELIEVE ?</h6>
+                     <h6>TOO GOOD TO BE TRUE?</h6>
                      <div class="stripContent d-md-flex justify-content-between align-items-center">
-                        <h3>Yes, We are a bunch of enthusiastic  technology evangelists <br class="d-md-block d-none"/>having 50+ years of tech and business experience.<br class="d-md-block d-none"/> Write to us with confidence.</h3>
+                        <h3>Not at all. We are a team of enthusiastic technology<br class="d-md-block d-none"/>  evangelists with 50+ years of tech and business experience.<br class="d-md-block d-none"/>  You can write to us with confidence.</h3>
                         <div class=" mt-md-0 mt-4"><a  class="btn btn-border-white form-pop" data-bs-toggle="modal" data-bs-target="#exampleModal">Get In Touch</a></div>
                      </div>
                   </div>
                </div>
             </div>
          </section>
-         <section class="bg-light-gray" id="product">
+         <section class="bg-light-gray page-section" id="product">
             <div class="container">
                <div class="equal-padding-T equal-padding-B">
                   <div class="row ">
@@ -170,28 +174,28 @@
                            <div class="item">
                               <div class="strip bg-black">
                                  <div class="stripContent">
-                                    <h3>A great product wanting to expand globally</h3>
+                                    <h3>A great product wanting to expand globally.</h3>
                                  </div>
                               </div>
                            </div>
                            <div class="item">
                               <div class="strip bg-black">
                                  <div class="stripContent">
-                                    <h3>A product that can solve new-gen business problems</h3>
+                                    <h3>A product that can solve new-gen business problems.</h3>
                                  </div>
                               </div>
                            </div>
                            <div class="item">
                               <div class="strip bg-black">
                                  <div class="stripContent">
-                                    <h3>A giant-killer product that can disrupt the market</h3>
+                                    <h3>A giant-killer product that can disrupt the market.</h3>
                                  </div>
                               </div>
                            </div>
                            <div class="item">
                               <div class="strip bg-black">
                                  <div class="stripContent">
-                                    <h3>A product that transforms traditional business processes.</h3>
+                                    <h3>A product that transforms traditional business problems.</h3>
                                  </div>
                               </div>
                            </div>
@@ -241,20 +245,20 @@
             <div class="container">
                <div class="equal-padding-T equal-padding-B ">
                   <div class="button-toggle d-flex justify-content-center">
-                     <div class="btn-box click-bg mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center " data-src="assets/json/Execution-Engine.json">
+                     <div class="btn-box click-bg mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center col-lg-3 col-md-4 col-5" data-src="assets/json/Execution-Engine.json">
                         <div class="img-icon bg-light-green justify-content-center "><img src="assets/images/Icons/job.svg" alt=""></div>
                         <span>Execution Engine</span>
                      </div>
-                     <div class="btn-box mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center" data-src="assets/json/Strategy.json">
+                     <div class="btn-box mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center col-lg-3 col-md-4 col-5" data-src="assets/json/Strategy.json">
                         <div class="img-icon  bg-light-green justify-content-center "><img src="assets/images/Icons/strategy.svg" alt=""></div>
                         <span>Strategy</span>
                      </div>
                   </div>
                </div>
-               <div class="">
+               <div class="video-section-tab">
                   
                   
-                  <lottie-interactive path="assets/json/Execution-Engine.json" id="video"  style="width: 100%; " background="#f110" interaction="play-on-show" play-once  ></lottie-interactive>
+                  <lottie-interactive path="assets/json/Execution-Engine.json" id="video" class="tab-video"  style="width: 100%; " background="#FCFBFD" interaction="play-on-show" play-once  ></lottie-interactive>
                   
                </div>
             </div>
@@ -263,9 +267,9 @@
             <div class="container">
                <div class="equal-padding-T equal-padding-B">
                   <div class="strip bg-black">
-                     <h6>TOO GOOD TO BELIEVE ?</h6>
+                     <h6>Unnecessary and redundant - can be done away with</h6>
                      <div class="stripContent d-md-flex  justify-content-between align-items-center">
-                        <h3>Write to us to simply enter our database or explore a sleuth<br class="d-md-block d-none"/> of gtm/sales offering we have to offer.</h3>
+                        <h3>Write to us to simply enter our database or explore a sleuth<br class="d-md-block d-none"/> of GTM/Sales services we have to offer.</h3>
                         <div class="mt-md-0 mt-4"><a class="btn btn-border-white form-pop" data-bs-toggle="modal" data-bs-target="#exampleModal">Get In Touch</a></div>
                      </div>
                   </div>
@@ -276,8 +280,8 @@
             <div class="container">
                <div class="equal-padding-T equal-padding-B">
                   <div class="sectionHeading  mb-5 text-md-start text-center">
-                     <h6>OUR FEATURES</h6>
-                     <h2 class="text-white">Why partner with us ?</h2>
+                     <h6>GREENTERN IN A NUTSHELL</h6>
+                     <h2 class="text-white">Why partner with us?</h2>
                   </div>
                   <div class="row" id="counter">
                      <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12">
@@ -377,13 +381,13 @@
                </div>
             </div>
          </section>
-         <section class="form-container hide-on-pop" id="contact">
+         <section class="form-container hide-on-pop page-section" id="contact">
             <div class="container">
                <div class="equal-padding-T equal-padding-B">
                   <div class="sectionHeading text-center mb-5">
                      <h6>GET STARTED</h6>
-                     <h2 class="">Do you have a great product or looking for a <br class="d-md-block d-none"/>
-                        business solution ? Let us hear about it.
+                     <h2 class="">Do you have a great product? Are you looking for a  <br class="d-md-block d-none"/> business solution? Let us hear about it.
+                       
                      </h2>
                   </div>
                   <div class="form-items  mx-auto">
@@ -431,12 +435,12 @@
                   <div class="footer-row row">
                      <div class="col-md-6">
                         <div class="footer-about text-md-start text-center">
-                           <div class="footer-logo w-25 mb-3 mx-md-0 mx-auto"><img class="w-100" src="assets/images/Greentern_Whitelogo.svg" alt=""></div>
+                           <div class="footer-logo w-25 mb-3 mx-md-0 mx-auto"><img class="w-100" src="assets/images/white-logo.svg" alt=""></div>
                            <p class=" text-break  " >Greentern is a SAAS technology research and consulting company.</p>
                         </div>
                      </div>
                      <div class="col-md-6 mt-4 mt-md-0">
-                        <div class="footer-social justify-content-md-end justify-content-center"><a href=""><i class="fab fa-facebook-f"></i></a><a href=""><i class="fab fa-instagram"></i></a><a href=""><i class="fab fa-twitter"></i></a><a href=""><i class="fab fa-youtube"></i></a></div>
+                        <div class="footer-social justify-content-md-end justify-content-center"><a href="" title="coming soon..."><i class="fab fa-facebook-f"></i></a><a href="" title="coming soon..."><i class="fab fa-instagram"></i></a><a href="" title="coming soon..."><i class="fab fa-twitter"></i></a><a href="" title="coming soon..."><i class="fab fa-youtube"></i></a></div>
                      </div>
                   </div>
                   <div class="footer-end row">
@@ -721,5 +725,6 @@ $(window).scroll(function() {
 
 
       </script>
+      
    </body>
 </html>
