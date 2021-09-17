@@ -1,4 +1,4 @@
-<?php include('connection.php'); ?>
+<!-- </?php include('connection.php'); ?> -->
 <!DOCTYPE html>
 <html lang="en">
    <head>
@@ -85,7 +85,7 @@
                   </div>
                   <div class="video-section">
                     
-                     <lottie-interactive path="assets/json/Top.json"  style="width: 100%; " background="#f110" interaction="play-on-show" play-once  ></lottie-interactive>
+                     <lottie-interactive path="assets/json/Topv2.json"  style="width: 100%; " background="#f110" interaction="play-on-show" play-once  ></lottie-interactive>
                   </div>
                   <div class="text-center mt-5">
                      <p>We have 30+ years of combined industry experience. We evaluate 100s of products every month.<br/> We also gather indispensable insights on user-experience, total cost of ownership <br/> and support infrastructure from actual business buyers. 
@@ -102,7 +102,7 @@
                      <h2>Do you want to solve your business problems <br class="d-md-block d-none"/>with a guaranteed solution?</h2>
                   </div>
                   <p>	We navigate
-  the SAAS landscape and tthe myriad solutions on your behalf to help you get
+  the SAAS landscape and the myriad solutions on your behalf to help you get
   to <br class="d-md-block d-none"/>the products and technology that are right for your business. </p>
                </div>
             </div>
@@ -245,11 +245,11 @@
             <div class="container">
                <div class="equal-padding-T equal-padding-B ">
                   <div class="button-toggle d-flex justify-content-center">
-                     <div class="btn-box click-bg mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center col-lg-3 col-md-4 col-5" data-src="assets/json/Execution-Engine.json">
+                     <div class="btn-box click-bg mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center col-lg-3 col-md-4 col-5" data-src="assets/json/Execution-Enginev2.json">
                         <div class="img-icon bg-light-green justify-content-center "><img src="assets/images/Icons/job.svg" alt=""></div>
                         <span>Execution Engine</span>
                      </div>
-                     <div class="btn-box mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center col-lg-3 col-md-4 col-5" data-src="assets/json/Strategy.json">
+                     <div class="btn-box mb-4 mb-sm-0 flex-sm-row flex-column justify-content-center text-sm-start text-center col-lg-3 col-md-4 col-5" data-src="assets/json/Strategyv2.json">
                         <div class="img-icon  bg-light-green justify-content-center "><img src="assets/images/Icons/strategy.svg" alt=""></div>
                         <span>Strategy</span>
                      </div>
@@ -258,7 +258,7 @@
                <div class="video-section-tab">
                   
                   
-                  <lottie-interactive path="assets/json/Execution-Engine.json" id="video" class="tab-video"  style="width: 100%; " background="#FCFBFD" interaction="play-on-show" play-once  ></lottie-interactive>
+                  <lottie-interactive path="assets/json/Execution-Enginev2.json" id="video" class="tab-video"  style="width: 100%; " background="#FCFBFD" interaction="play-on-show" play-once  ></lottie-interactive>
                   
                </div>
             </div>
@@ -267,7 +267,7 @@
             <div class="container">
                <div class="equal-padding-T equal-padding-B">
                   <div class="strip bg-black">
-                     <h6>Unnecessary and redundant - can be done away with</h6>
+                     <h6></h6>
                      <div class="stripContent d-md-flex  justify-content-between align-items-center">
                         <h3>Write to us to simply enter our database or explore a sleuth<br class="d-md-block d-none"/> of GTM/Sales services we have to offer.</h3>
                         <div class="mt-md-0 mt-4"><a class="btn btn-border-white form-pop" data-bs-toggle="modal" data-bs-target="#exampleModal">Get In Touch</a></div>
@@ -435,7 +435,7 @@
                   <div class="footer-row row">
                      <div class="col-md-6">
                         <div class="footer-about text-md-start text-center">
-                           <div class="footer-logo w-25 mb-3 mx-md-0 mx-auto"><img class="w-100" src="assets/images/white-logo.svg" alt=""></div>
+                           <div class="footer-logo w-25 mb-3 mx-md-0 mx-auto"><img class="w-100" src="assets/images/Greentern_Whitelogo.svg" alt=""></div>
                            <p class=" text-break  " >Greentern is a SAAS technology research and consulting company.</p>
                         </div>
                      </div>
